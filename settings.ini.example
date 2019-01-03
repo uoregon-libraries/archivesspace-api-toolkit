@@ -1,0 +1,4 @@
+[aspace_credentials]
+api_host = http://localhost:8089
+username = admin
+password = admin

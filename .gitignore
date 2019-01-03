@@ -1,0 +1,7 @@
+*.log
+*.json
+*.ini
+
+build/
+venv/
+__pycache__/

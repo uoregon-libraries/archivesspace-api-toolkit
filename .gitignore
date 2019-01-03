@@ -1,6 +1,7 @@
 *.log
 *.json
 *.ini
+*.zip
 
 build/
 venv/

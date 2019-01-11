@@ -3,6 +3,7 @@
 *.ini
 *.zip
 
+.idea/
 build/
 venv/
 __pycache__/

@@ -3,7 +3,7 @@ import argparse
 import aspace
 import logging
 
-from tasks.user_defined import UserDefinedTask
+from tasks import *
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-y", "--yes", help="Supply Yes to all confirmation prompts", action="store_true")
@@ -44,12 +44,14 @@ def print_menu(tasks):
   optnum = 1
   for task in tasks:
     print("%d) %s" % (optnum, task.prompt()))
+    optnum += 1
   print("X) Exit")
   print("")
 
 def main_menu():
   tasks = [
-    UserDefinedTask(args, client, logger)
+    UserDefinedTask(args, client, logger),
+    BatchCreateTopContainer(args, client, logger)
   ]
 
   done = False

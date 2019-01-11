@@ -27,6 +27,8 @@ class UserDefinedTask(GenericTask):
           print("File %s not found" % json_file)
           print("")
           data = None
+        except json.JSONDecodeError:
+          print("Invalid JSON in %s" % json_file)
         if data:
           break
     # Run client request and output

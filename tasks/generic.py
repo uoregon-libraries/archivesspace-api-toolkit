@@ -10,7 +10,7 @@ class GenericTask(abc.ABC):
 
   # Base case action to perform for this task
   @abc.abstractmethod
-  def run():
+  def run(self):
     pass
 
   # Menu prompt
@@ -32,9 +32,11 @@ class GenericTask(abc.ABC):
     self.logger.debug(data)
     self.logger.info(resp_dump.decode('utf-8'))
 
+    return resp
+
   # Ask user to confirm prompt
-  def _confirm(self, prompt):
-    if not self.args.yes:
+  def _confirm(self, prompt, override_args=False):
+    if not self.args.yes or override_args:
       print(prompt)
       print("Y/(N)")
       try:

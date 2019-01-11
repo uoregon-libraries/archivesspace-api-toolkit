@@ -51,7 +51,8 @@ def print_menu(tasks):
 def main_menu():
   tasks = [
     UserDefinedTask(args, client, logger),
-    BatchCreateTopContainer(args, client, logger)
+    BatchCreateTopContainer(args, client, logger),
+    BatchExportEAD(args, client, logger),
   ]
 
   done = False

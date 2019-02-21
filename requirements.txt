@@ -1,4 +1,4 @@
-aspace-client==0.7.1
+https://github.com/AustinTSchaffer/ArchivesSpace-Python-Client/zipball/v0.7.2
 certifi==2018.10.15
 chardet==3.0.4
 cx-Freeze==5.1.1

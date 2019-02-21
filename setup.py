@@ -2,7 +2,7 @@ from cx_Freeze import setup, Executable
 
 buildOptions = {
   "includes": ["idna.idnadata", "Queue.multiprocessing"],
-  "include_files": ["settings.ini.example"],
+  "include_files": ["settings.ini.example", "README.md"],
 }
 setup(
   name = "aspace",

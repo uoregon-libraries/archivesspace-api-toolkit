@@ -1,0 +1,6547 @@
+[
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 139",
+    "indicator": "139",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 139",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/155",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 142",
+    "indicator": "142",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 142",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/157",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 192",
+    "indicator": "192",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 192",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/158",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 177",
+    "indicator": "177",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 177",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/159",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 200",
+    "indicator": "200",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 200",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/160",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 225",
+    "indicator": "225",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 225",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/161",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 57",
+    "indicator": "57",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 57",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/162",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 180",
+    "indicator": "180",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 180",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/163",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 140",
+    "indicator": "140",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 140",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/164",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 137",
+    "indicator": "137",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 137",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/165",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 38",
+    "indicator": "38",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 38",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/167",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 215",
+    "indicator": "215",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 215",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/168",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 40",
+    "indicator": "40",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 40",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/169",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 170",
+    "indicator": "170",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 170",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/171",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 188",
+    "indicator": "188",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 188",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/174",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 32",
+    "indicator": "32",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 32",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/175",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 59",
+    "indicator": "59",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 59",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/176",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 35",
+    "indicator": "35",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 35",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/177",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 217",
+    "indicator": "217",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 217",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/178",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 262",
+    "indicator": "262",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 262",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/179",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 18",
+    "indicator": "18",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 18",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/180",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 158",
+    "indicator": "158",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 158",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/181",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 50",
+    "indicator": "50",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 50",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/182",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 44",
+    "indicator": "44",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 44",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/183",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 26",
+    "indicator": "26",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 26",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/184",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 234",
+    "indicator": "234",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 234",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/185",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 141",
+    "indicator": "141",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 141",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/187",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 185",
+    "indicator": "185",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 185",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/188",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 138",
+    "indicator": "138",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 138",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/189",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 1",
+    "indicator": "1",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 1",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/190",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 39",
+    "indicator": "39",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 39",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/192",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 146",
+    "indicator": "146",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 146",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/193",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 216",
+    "indicator": "216",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 216",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/194",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 99",
+    "indicator": "99",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 99",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/195",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 69",
+    "indicator": "69",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 69",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/196",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 97",
+    "indicator": "97",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 97",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/197",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 156",
+    "indicator": "156",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 156",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/198",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 153",
+    "indicator": "153",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 153",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/199",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 169",
+    "indicator": "169",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 169",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/200",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 61",
+    "indicator": "61",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 61",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/201",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 127",
+    "indicator": "127",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 127",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/202",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 195",
+    "indicator": "195",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 195",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/203",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 8",
+    "indicator": "8",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 8",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/204",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 175",
+    "indicator": "175",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 175",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/205",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 239",
+    "indicator": "239",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 239",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/206",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 116",
+    "indicator": "116",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 116",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/207",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 63",
+    "indicator": "63",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 63",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/208",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 214",
+    "indicator": "214",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 214",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/209",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 6",
+    "indicator": "6",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 6",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/210",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 72",
+    "indicator": "72",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 72",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/211",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 74",
+    "indicator": "74",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 74",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/212",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 25",
+    "indicator": "25",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 25",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/213",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 121",
+    "indicator": "121",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 121",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/214",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 62",
+    "indicator": "62",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 62",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/215",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 20",
+    "indicator": "20",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 20",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/216",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 249",
+    "indicator": "249",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 249",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/218",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 120",
+    "indicator": "120",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 120",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/219",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 64",
+    "indicator": "64",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 64",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/220",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 155",
+    "indicator": "155",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 155",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/221",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 147",
+    "indicator": "147",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 147",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/222",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 261",
+    "indicator": "261",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 261",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/223",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 49",
+    "indicator": "49",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 49",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/224",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:44Z",
+    "created_by": "admin",
+    "display_string": "Box 56",
+    "indicator": "56",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 56",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:44Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/225",
+    "user_mtime": "2019-01-30T21:24:44Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:45Z",
+    "created_by": "admin",
+    "display_string": "Box 154",
+    "indicator": "154",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 154",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:45Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/226",
+    "user_mtime": "2019-01-30T21:24:45Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:46Z",
+    "created_by": "admin",
+    "display_string": "Box 60",
+    "indicator": "60",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 60",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:46Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/227",
+    "user_mtime": "2019-01-30T21:24:46Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:46Z",
+    "created_by": "admin",
+    "display_string": "Box 149",
+    "indicator": "149",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 149",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:46Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/228",
+    "user_mtime": "2019-01-30T21:24:46Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:46Z",
+    "created_by": "admin",
+    "display_string": "Box 148",
+    "indicator": "148",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 148",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:46Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/229",
+    "user_mtime": "2019-01-30T21:24:46Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:47Z",
+    "created_by": "admin",
+    "display_string": "Box 152",
+    "indicator": "152",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 152",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:47Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/231",
+    "user_mtime": "2019-01-30T21:24:47Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:48Z",
+    "created_by": "admin",
+    "display_string": "Box 224",
+    "indicator": "224",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 224",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:48Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/232",
+    "user_mtime": "2019-01-30T21:24:48Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:00Z",
+    "created_by": "admin",
+    "display_string": "Box 247",
+    "indicator": "247",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 247",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:00Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/234",
+    "user_mtime": "2019-01-30T21:25:00Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:05Z",
+    "created_by": "admin",
+    "display_string": "Box 70",
+    "indicator": "70",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 70",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:05Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/235",
+    "user_mtime": "2019-01-30T21:25:05Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:08Z",
+    "created_by": "admin",
+    "display_string": "Box 94",
+    "indicator": "94",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 94",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:08Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/236",
+    "user_mtime": "2019-01-30T21:25:08Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:10Z",
+    "created_by": "admin",
+    "display_string": "Box 263",
+    "indicator": "263",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 263",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:10Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/238",
+    "user_mtime": "2019-01-30T21:25:10Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:12Z",
+    "created_by": "admin",
+    "display_string": "Box 36",
+    "indicator": "36",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 36",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:12Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/240",
+    "user_mtime": "2019-01-30T21:25:12Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:12Z",
+    "created_by": "admin",
+    "display_string": "Box 48",
+    "indicator": "48",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 48",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:14Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/242",
+    "user_mtime": "2019-01-30T21:25:12Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:48Z",
+    "created_by": "admin",
+    "display_string": "Box 159",
+    "indicator": "159",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 159",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:15Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/233",
+    "user_mtime": "2019-01-30T21:24:48Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 145",
+    "indicator": "145",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 145",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:17Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/172",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 133",
+    "indicator": "133",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 133",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:19Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/186",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:10Z",
+    "created_by": "admin",
+    "display_string": "Box 161",
+    "indicator": "161",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 37,
+    "long_display_string": "LEO.415, Box 161",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:21Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/237",
+    "user_mtime": "2019-01-30T21:25:10Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:47Z",
+    "created_by": "admin",
+    "display_string": "Box 144",
+    "indicator": "144",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 15,
+    "long_display_string": "LEO.415, Box 144",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:21Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/230",
+    "user_mtime": "2019-01-30T21:24:47Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:12Z",
+    "created_by": "admin",
+    "display_string": "Box 27",
+    "indicator": "27",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 27",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:21Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/241",
+    "user_mtime": "2019-01-30T21:25:12Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 165",
+    "indicator": "165",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 165",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:22Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/170",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 163",
+    "indicator": "163",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 163",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:22Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/166",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 160",
+    "indicator": "160",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 160",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:22Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/217",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 151",
+    "indicator": "151",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 151",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:23Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/156",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:25:11Z",
+    "created_by": "admin",
+    "display_string": "Box 55",
+    "indicator": "55",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 20,
+    "long_display_string": "LEO.415, Box 55",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:23Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/239",
+    "user_mtime": "2019-01-30T21:25:11Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 12",
+    "indicator": "12",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 21,
+    "long_display_string": "LEO.415, Box 12",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:23Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/191",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 168",
+    "indicator": "168",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 168",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:23Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/173",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 89",
+    "indicator": "89",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 89",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:24Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/1",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 118",
+    "indicator": "118",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 118",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:24Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/2",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 4",
+    "indicator": "4",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 4",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:24Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/4",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 157",
+    "indicator": "157",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 157",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:26Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/16",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 167",
+    "indicator": "167",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 167",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:28Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/25",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 162",
+    "indicator": "162",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 162",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:35Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/28",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 241",
+    "indicator": "241",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 241",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/48",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 46",
+    "indicator": "46",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 46",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/49",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 190",
+    "indicator": "190",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 190",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/24",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 7",
+    "indicator": "7",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 7",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:44Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/67",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 3",
+    "indicator": "3",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 3",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:47Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/62",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 2",
+    "indicator": "2",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 2",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:25:48Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/63",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 113",
+    "indicator": "113",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 113",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:28:21Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/61",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 17",
+    "indicator": "17",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 17",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:30Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/70",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 19",
+    "indicator": "19",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 19",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:30Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/71",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 171",
+    "indicator": "171",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 10,
+    "long_display_string": "LEO.415, Box 171",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:30Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/31",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 110",
+    "indicator": "110",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 110",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:31Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/74",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 112",
+    "indicator": "112",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 112",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:31Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/75",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 119",
+    "indicator": "119",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 119",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:31Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/68",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 243",
+    "indicator": "243",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 243",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:31Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/76",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 114",
+    "indicator": "114",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 7,
+    "long_display_string": "LEO.415, Box 114",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:31Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/66",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 16",
+    "indicator": "16",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 16",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:31Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/77",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 115",
+    "indicator": "115",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 7,
+    "long_display_string": "LEO.415, Box 115",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:32Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/57",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 109",
+    "indicator": "109",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 109",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:32Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/80",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 117",
+    "indicator": "117",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 117",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:32Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/64",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 15",
+    "indicator": "15",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 15",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:32Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/83",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 52",
+    "indicator": "52",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 52",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:33Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/84",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 131",
+    "indicator": "131",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 131",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:34Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/87",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 130",
+    "indicator": "130",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 130",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:34Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/88",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 125",
+    "indicator": "125",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 125",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:34Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/89",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 71",
+    "indicator": "71",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 11,
+    "long_display_string": "LEO.415, Box 71",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:34Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/59",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 211",
+    "indicator": "211",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 211",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:35Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/90",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 21",
+    "indicator": "21",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 21",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:35Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/94",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 135",
+    "indicator": "135",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 135",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:35Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/95",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 124",
+    "indicator": "124",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 124",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:35Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/93",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 230",
+    "indicator": "230",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 7,
+    "long_display_string": "LEO.415, Box 230",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/60",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 132",
+    "indicator": "132",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 132",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/97",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 29",
+    "indicator": "29",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 29",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/98",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 126",
+    "indicator": "126",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 126",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/82",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 30",
+    "indicator": "30",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 30",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/91",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 228",
+    "indicator": "228",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 228",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:37Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/26",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 65",
+    "indicator": "65",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 9,
+    "long_display_string": "LEO.415, Box 65",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:37Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/13",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 183",
+    "indicator": "183",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 183",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:37Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/100",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 166",
+    "indicator": "166",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 166",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:37Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/101",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 136",
+    "indicator": "136",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 136",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:37Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/96",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 10",
+    "indicator": "10",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 10",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:38Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/51",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 84",
+    "indicator": "84",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 84",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:38Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/102",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 122",
+    "indicator": "122",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 122",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:38Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/103",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 111",
+    "indicator": "111",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 111",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:38Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/3",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 14",
+    "indicator": "14",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 14",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/104",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 213",
+    "indicator": "213",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 213",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/105",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 73",
+    "indicator": "73",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 73",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/106",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 223",
+    "indicator": "223",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 223",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/5",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 221",
+    "indicator": "221",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 221",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:30:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/107",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 191",
+    "indicator": "191",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 191",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:33:12Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/69",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 196",
+    "indicator": "196",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 196",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:18Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/122",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 81",
+    "indicator": "81",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 13,
+    "long_display_string": "LEO.415, Box 81",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:18Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/7",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 79",
+    "indicator": "79",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 18,
+    "long_display_string": "LEO.415, Box 79",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:20Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/15",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 246",
+    "indicator": "246",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 9,
+    "long_display_string": "LEO.415, Box 246",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:20Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/110",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 179",
+    "indicator": "179",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 179",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:21Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/120",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 85",
+    "indicator": "85",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 9,
+    "long_display_string": "LEO.415, Box 85",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:24Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/127",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 83",
+    "indicator": "83",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 83",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:24Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/124",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 202",
+    "indicator": "202",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 202",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:24Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/79",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 194",
+    "indicator": "194",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 194",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:24Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/45",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 95",
+    "indicator": "95",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 13,
+    "long_display_string": "LEO.415, Box 95",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:25Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/11",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 86",
+    "indicator": "86",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 11,
+    "long_display_string": "LEO.415, Box 86",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:25Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/20",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 237",
+    "indicator": "237",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 26,
+    "long_display_string": "LEO.415, Box 237",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:25Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/8",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 24",
+    "indicator": "24",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 9,
+    "long_display_string": "LEO.415, Box 24",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:25Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/18",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 242",
+    "indicator": "242",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 17,
+    "long_display_string": "LEO.415, Box 242",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:26Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/10",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 248",
+    "indicator": "248",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 13,
+    "long_display_string": "LEO.415, Box 248",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:26Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/23",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 176",
+    "indicator": "176",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 176",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:27Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/114",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 231",
+    "indicator": "231",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 231",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:27Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/47",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 123",
+    "indicator": "123",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 123",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:28Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/131",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 253",
+    "indicator": "253",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 9,
+    "long_display_string": "LEO.415, Box 253",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:29Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/38",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 252",
+    "indicator": "252",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 17,
+    "long_display_string": "LEO.415, Box 252",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:30Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/12",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 254",
+    "indicator": "254",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 11,
+    "long_display_string": "LEO.415, Box 254",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:30Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/29",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 90",
+    "indicator": "90",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 8,
+    "long_display_string": "LEO.415, Box 90",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:31Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/129",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 204",
+    "indicator": "204",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 204",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:32Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/81",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 87",
+    "indicator": "87",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 15,
+    "long_display_string": "LEO.415, Box 87",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:32Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/33",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 232",
+    "indicator": "232",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 232",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:33Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/78",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 184",
+    "indicator": "184",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 184",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:33Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/19",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 245",
+    "indicator": "245",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 245",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:34Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/108",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 5",
+    "indicator": "5",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 13,
+    "long_display_string": "LEO.415, Box 5",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:35Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/30",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 178",
+    "indicator": "178",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 178",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/137",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 173",
+    "indicator": "173",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 173",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/138",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 92",
+    "indicator": "92",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 14,
+    "long_display_string": "LEO.415, Box 92",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/32",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 31",
+    "indicator": "31",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 9,
+    "long_display_string": "LEO.415, Box 31",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:36Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/34",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 255",
+    "indicator": "255",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 255",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:37Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/130",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 210",
+    "indicator": "210",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 10,
+    "long_display_string": "LEO.415, Box 210",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:37Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/42",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 182",
+    "indicator": "182",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 182",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:38Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/46",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 220",
+    "indicator": "220",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 13,
+    "long_display_string": "LEO.415, Box 220",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:38Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/36",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 209",
+    "indicator": "209",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 17,
+    "long_display_string": "LEO.415, Box 209",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:38Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/40",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 257",
+    "indicator": "257",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 257",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/140",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 54",
+    "indicator": "54",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 17,
+    "long_display_string": "LEO.415, Box 54",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:39Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/35",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 256",
+    "indicator": "256",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 11,
+    "long_display_string": "LEO.415, Box 256",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:40Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/125",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 93",
+    "indicator": "93",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 7,
+    "long_display_string": "LEO.415, Box 93",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:40Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/136",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 134",
+    "indicator": "134",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 8,
+    "long_display_string": "LEO.415, Box 134",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:40Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/126",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 189",
+    "indicator": "189",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 189",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:41Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/37",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 203",
+    "indicator": "203",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 10,
+    "long_display_string": "LEO.415, Box 203",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:41Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/73",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 222",
+    "indicator": "222",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 222",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/56",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 150",
+    "indicator": "150",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 150",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:43Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/145",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 41",
+    "indicator": "41",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 41",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:45Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/128",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 88",
+    "indicator": "88",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 19,
+    "long_display_string": "LEO.415, Box 88",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:46Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/27",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 98",
+    "indicator": "98",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 98",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:48Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/142",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 193",
+    "indicator": "193",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 193",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:48Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/123",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 260",
+    "indicator": "260",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 260",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:48Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/144",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 244",
+    "indicator": "244",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 18,
+    "long_display_string": "LEO.415, Box 244",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:49Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/116",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 107",
+    "indicator": "107",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 107",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:49Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/147",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 240",
+    "indicator": "240",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 10,
+    "long_display_string": "LEO.415, Box 240",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:49Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/112",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 100",
+    "indicator": "100",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 10,
+    "long_display_string": "LEO.415, Box 100",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:49Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/141",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 238",
+    "indicator": "238",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 11,
+    "long_display_string": "LEO.415, Box 238",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:50Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/9",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 96",
+    "indicator": "96",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 19,
+    "long_display_string": "LEO.415, Box 96",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:50Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/17",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 76",
+    "indicator": "76",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 41,
+    "long_display_string": "LEO.415, Box 76",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:50Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/6",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 77",
+    "indicator": "77",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 23,
+    "long_display_string": "LEO.415, Box 77",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:50Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/113",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 91",
+    "indicator": "91",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 7,
+    "long_display_string": "LEO.415, Box 91",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:50Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/133",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 82",
+    "indicator": "82",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 16,
+    "long_display_string": "LEO.415, Box 82",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:50Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/21",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 78",
+    "indicator": "78",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 14,
+    "long_display_string": "LEO.415, Box 78",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:50Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/43",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 80",
+    "indicator": "80",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 20,
+    "long_display_string": "LEO.415, Box 80",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:51Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/14",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 258",
+    "indicator": "258",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 10,
+    "long_display_string": "LEO.415, Box 258",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:51Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/143",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 259",
+    "indicator": "259",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 18,
+    "long_display_string": "LEO.415, Box 259",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:52Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/44",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 164",
+    "indicator": "164",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 8,
+    "long_display_string": "LEO.415, Box 164",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:52Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/22",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 9",
+    "indicator": "9",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 9",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:53Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/152",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 186",
+    "indicator": "186",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 186",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:53Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/121",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 187",
+    "indicator": "187",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 187",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:53Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/148",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 226",
+    "indicator": "226",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 226",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:53Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/119",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 143",
+    "indicator": "143",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 143",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:53Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/153",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 197",
+    "indicator": "197",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 15,
+    "long_display_string": "LEO.415, Box 197",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:53Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/109",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 47",
+    "indicator": "47",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 47",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:54Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/41",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 198",
+    "indicator": "198",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 198",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:54Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/134",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 207",
+    "indicator": "207",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 1,
+    "long_display_string": "LEO.415, Box 207",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:54Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/154",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 174",
+    "indicator": "174",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 174",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:54Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/117",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 205",
+    "indicator": "205",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 205",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:54Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/118",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 101",
+    "indicator": "101",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 101",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:55Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/50",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 128",
+    "indicator": "128",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 128",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:56Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/92",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 208",
+    "indicator": "208",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 16,
+    "long_display_string": "LEO.415, Box 208",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:56Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/135",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 233",
+    "indicator": "233",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 233",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:56Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/86",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 250",
+    "indicator": "250",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 250",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:56Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/150",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 33",
+    "indicator": "33",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 33",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:56Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/58",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 108",
+    "indicator": "108",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 108",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:57Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/85",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 75",
+    "indicator": "75",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 15,
+    "long_display_string": "LEO.415, Box 75",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:57Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/52",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 229",
+    "indicator": "229",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 25,
+    "long_display_string": "LEO.415, Box 229",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:57Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/65",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 181",
+    "indicator": "181",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 181",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:57Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/39",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 206",
+    "indicator": "206",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 15,
+    "long_display_string": "LEO.415, Box 206",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:57Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/111",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 106",
+    "indicator": "106",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 106",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:57Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/53",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 235",
+    "indicator": "235",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 3,
+    "long_display_string": "LEO.415, Box 235",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:57Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/99",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 172",
+    "indicator": "172",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 2,
+    "long_display_string": "LEO.415, Box 172",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:58Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/132",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 201",
+    "indicator": "201",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 34,
+    "long_display_string": "LEO.415, Box 201",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:58Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/72",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 129",
+    "indicator": "129",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 5,
+    "long_display_string": "LEO.415, Box 129",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:58Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/149",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:42Z",
+    "created_by": "admin",
+    "display_string": "Box 199",
+    "indicator": "199",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 4,
+    "long_display_string": "LEO.415, Box 199",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:58Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/139",
+    "user_mtime": "2019-01-30T21:24:42Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 105",
+    "indicator": "105",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 6,
+    "long_display_string": "LEO.415, Box 105",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:59Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/151",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 103",
+    "indicator": "103",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 14,
+    "long_display_string": "LEO.415, Box 103",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:59Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/54",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:41Z",
+    "created_by": "admin",
+    "display_string": "Box 102",
+    "indicator": "102",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 8,
+    "long_display_string": "LEO.415, Box 102",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:59Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/55",
+    "user_mtime": "2019-01-30T21:24:41Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [
+      {
+        "display_string": "FAKE Leo Hershkowitz Collection",
+        "identifier": "LEO.415",
+        "ref": "/repositories/2/resources/1"
+      }
+    ],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 104",
+    "indicator": "104",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 8,
+    "long_display_string": "LEO.415, Box 104",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:35:59Z",
+    "type": "Box",
+    "uri": "/repositories/2/top_containers/146",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  }
+]

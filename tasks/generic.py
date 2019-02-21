@@ -46,4 +46,4 @@ class GenericTask(abc.ABC):
       print("")
     else:
       confirm = "Y"
-    return confirm == "Y"
+    return confirm.startswith("Y")

@@ -39,7 +39,7 @@ logger.addHandler(fh)
 logger.addHandler(ch)
 
 def print_menu(tasks):
-  print("Choose an action:")
+  print("Choose a task:")
   print("")
   optnum = 1
   for task in tasks:
@@ -52,6 +52,8 @@ def main_menu():
   tasks = [
     UserDefinedTask(args, client, logger),
     BatchCreateTopContainer(args, client, logger),
+    BatchExportTopContainer(args, client, logger),
+    BatchImportTopContainer(args, client, logger),
     BatchExportEAD(args, client, logger),
   ]
 

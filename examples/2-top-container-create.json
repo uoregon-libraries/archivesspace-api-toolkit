@@ -1,0 +1,68 @@
+[
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 139",
+    "indicator": "139",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 139",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 142",
+    "indicator": "142",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 142",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  },
+  {
+    "active_restrictions": [],
+    "collection": [],
+    "container_locations": [],
+    "create_time": "2019-01-30T21:24:43Z",
+    "created_by": "admin",
+    "display_string": "Box 192",
+    "indicator": "192",
+    "is_linked_to_published_record": false,
+    "jsonmodel_type": "top_container",
+    "last_modified_by": "admin",
+    "lock_version": 0,
+    "long_display_string": "Box 192",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "restricted": false,
+    "series": [],
+    "system_mtime": "2019-01-30T21:24:43Z",
+    "type": "Box",
+    "user_mtime": "2019-01-30T21:24:43Z"
+  }
+]

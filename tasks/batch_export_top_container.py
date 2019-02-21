@@ -1,8 +1,9 @@
 from tasks.generic import GenericTask
 import json
+import time
 
-# Batch create top containers based on json array of top container definitions
-class BatchCreateTopContainer(GenericTask):
+# Batch dump top containers based on repository number
+class BatchExportTopContainer(GenericTask):
 
   def run(self):
     # Get repository ID
@@ -12,30 +13,24 @@ class BatchCreateTopContainer(GenericTask):
         break
 
     # Get list of top container definitions
-    data = None
-    while True:
-      json_file = self.json_menu()
-      try:
-        with open(json_file) as file:
-          data = json.loads(file.read())
-      except FileNotFoundError:
-        print("File %s not found" % json_file)
-        print("")
-        data = None
-      except json.JSONDecodeError:
-        print("Invalid JSON in %s" % json_file)
-      if data:
-        break
+    top_containers = []
+    cur_page = last_page = 1
+    while cur_page <= last_page:
+      url = "/repositories/%s/top_containers?page=%i" % (id, cur_page)
+      data = super()._call(url, "get", None)
+      data = data.json()
+      top_containers += data["results"]
+      last_page = data["last_page"]
+      cur_page += 1
 
-    url = "/repositories/%s/top_containers" % (id)
-
-    for tc in data:
-      # Create top container
-      super()._call(url, "post", tc)
+    export_time = time.strftime("%Y-%m-%d-%H%M%S")
+    with open("out/%s.json" % (export_time), "w") as file:
+      file.write(json.dumps(top_containers, indent=2, sort_keys=True))
+      file.close()
 
   # Menu prompt
   def prompt(self):
-    return "Batch create top containers"
+    return "Batch export top containers"
 
   # Query user for repository ID
   def repo_menu(self):

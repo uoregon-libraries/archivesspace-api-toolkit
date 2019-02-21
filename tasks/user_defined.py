@@ -81,7 +81,7 @@ class UserDefinedTask(GenericTask):
   # Query user for JSON data file
   def json_menu(self):
     print("Enter the path to your json file:")
-    print("ie: /data.json")
+    print("ie: data.json")
     print("")
     try:
       data = input(">> ")

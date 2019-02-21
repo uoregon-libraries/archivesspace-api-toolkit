@@ -1,8 +1,9 @@
 from tasks.generic import GenericTask
 import json
+import time
 
-# Batch create top containers based on json array of top container definitions
-class BatchCreateTopContainer(GenericTask):
+# Batch update top containers based on json array of top container definitions
+class BatchImportTopContainer(GenericTask):
 
   def run(self):
     # Get repository ID
@@ -27,15 +28,17 @@ class BatchCreateTopContainer(GenericTask):
       if data:
         break
 
-    url = "/repositories/%s/top_containers" % (id)
-
-    for tc in data:
-      # Create top container
-      super()._call(url, "post", tc)
+    for top_container in data:
+      # Update top container from url definition
+      try:
+        url = top_container['uri']
+        super()._call(url, 'post', top_container)
+      except KeyError:
+        print("element 'uri' not defined in %s" % (top_container))
 
   # Menu prompt
   def prompt(self):
-    return "Batch create top containers"
+    return "Batch update top containers"
 
   # Query user for repository ID
   def repo_menu(self):

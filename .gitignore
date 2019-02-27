@@ -4,6 +4,7 @@
 *.zip
 
 .idea/
+.vscode/
 build/
 venv/
 __pycache__/

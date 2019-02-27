@@ -1,4 +1,4 @@
-https://github.com/AustinTSchaffer/ArchivesSpace-Python-Client/zipball/v0.7.2
+ArchivesSnake==0.7.3
 certifi==2018.10.15
 chardet==3.0.4
 cx-Freeze==5.1.1

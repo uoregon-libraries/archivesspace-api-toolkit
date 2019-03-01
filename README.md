@@ -13,30 +13,31 @@ Currently, this tool is only built for Windows. If you are a Mac or Linux user, 
 After setting up your Aspace credentials correctly, running `app.exe` will present you with a basic command line interface.
 If you are receiving immediate crashes or error messages, make sure your `settings.ini` file is correct and well formatted
 
-`>>` indicates the application is waiting for your input.  
-`#)` indicates an option, input the value left of the parens to select that option  
+`>>` indicates the application is waiting for your input.
+`#)` indicates an option, input the value left of the parens to select that option
 `Y/(N)` or `(Y)/N` indicates a yes or no response. The parenthesized value is the default if nothing is entered. A `Yes` response is anything that starts with a `y` case-insensitive, everything else is a `No`.
 The toolkit can be ran as `app.exe -y` or `app.exe --yes` to skip some of the more annoying `Y/N` questions, such as confirming paths.
 
-All inputs will present you with a short instruction on what to input and give an example value.  
+All inputs will present you with a short instruction on what to input and give an example value.
 When asked for a json file, refer to the corresponding example json to build an input file, then give an absolute or relative (to app.exe) path to your input file.
 The easiest way to accomplish this is to create a file called `data.json` next to `app.exe` and always input the example: `data.json`
 
 After all requested data is input, task will immediately begin and output a trace of the network traffic between the app and the Aspace API.
 
-`<` indicates traffic out to Aspace  
-`>` indicates traffic in to the app. This is what you will be most interested in.  
-The last line of traffic in will likely be your output. It can be helpful to run your output through a beautifier like these: [JSON](https://jsonformatter.org/) | [XML](https://jsonformatter.org/xml-formatter)  
+`<` indicates traffic out to Aspace
+`>` indicates traffic in to the app. This is what you will be most interested in.
+The last line of traffic in will likely be your output. It can be helpful to run your output through a beautifier like these: [JSON](https://jsonformatter.org/) | [XML](https://jsonformatter.org/xml-formatter)
 Certain tasks will also dump your output to the `out` directly in a useful format.
 
 #### Tasks
 `1) Enter API endpoint and JSON file` Is a base case, where you can input a free form url to be prepended to your Aspace instance URL.
 With this option, any arbitrary API query can be ran
-See [API Docs](https://archivesspace.github.io/archivesspace/api/#routes-by-uri)  
-`2) Batch create top containers` Is a repetitive application of the [`POST /repositories/:repo_id/top_containers`](https://archivesspace.github.io/archivesspace/api/#create-a-top-container) endpoint  
-`3) Batch export top containers` Does a search for all top containers in the given repository, then is a repetitive application of the [`GET /repositories/:repo_id/top_containers/:id`](https://archivesspace.github.io/archivesspace/api/#get-a-top-container-by-id) endpoint. Data is dumped to `out/:id.json`  
-`4) Batch update top containers` Is a repetitive application of the [`POST /repositories/:repo_id/top_containers/:id`](https://archivesspace.github.io/archivesspace/api/#update-a-top-container) endpoint  
-`5) Batch export resources` Is a repetitive application of the [`GET /repositories/:repo_id/resource_descriptions/:id.xml`](https://archivesspace.github.io/archivesspace/api/#get-an-ead-representation-of-a-resource204) endpoint. Data is dumped to `out/:id.xml`
+See [API Docs](https://archivesspace.github.io/archivesspace/api/#routes-by-uri)
+`2) Batch create top containers` Is a repetitive application of the [`POST /repositories/:repo_id/top_containers`](https://archivesspace.github.io/archivesspace/api/#create-a-top-container) endpoint
+`3) Batch export top containers` Does a search for all top containers in the given repository, then is a repetitive application of the [`GET /repositories/:repo_id/top_containers/:id`](https://archivesspace.github.io/archivesspace/api/#get-a-top-container-by-id) endpoint. Data is dumped to `out/:id.json`
+`4) Batch update top containers` Is a repetitive application of the [`POST /repositories/:repo_id/top_containers/:id`](https://archivesspace.github.io/archivesspace/api/#update-a-top-container) endpoint
+`5) Batch export resources as EAD` Is a repetitive application of the [`GET /repositories/:repo_id/resource_descriptions/:id.xml`](https://archivesspace.github.io/archivesspace/api/#get-an-ead-representation-of-a-resource204) endpoint. Data is dumped to `out/:id.xml`
+`4) Batch update resources` Is a repetitive application of the [`POST /repositories/:repo_id/resources/:id`](https://archivesspace.github.io/archivesspace/api/#update-a-resource) endpoint
 
 ### Logging
 All traffic in and out of the app is recorded to `app.log`. This can be extremely helpful in debugging or retrieving accidentally deleted resources.

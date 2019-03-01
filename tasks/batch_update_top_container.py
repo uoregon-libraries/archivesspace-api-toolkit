@@ -3,7 +3,7 @@ import json
 import time
 
 # Batch update top containers based on json array of top container definitions
-class BatchImportTopContainer(GenericTask):
+class BatchUpdateTopContainer(GenericTask):
 
   def run(self):
     # Get repository ID
@@ -42,7 +42,7 @@ class BatchImportTopContainer(GenericTask):
 
   # Query user for repository ID
   def repo_menu(self):
-    print("Enter the repository ID to create the top containers in:")
+    print("Enter the repository ID to update in:")
     print("ie: 5")
     print("")
     try:

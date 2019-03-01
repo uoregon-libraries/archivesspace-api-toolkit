@@ -1,0 +1,67 @@
+[
+  {
+    "lock_version": 1,
+    "title": "Title",
+    "publish": false,
+    "restrictions": false,
+    "created_by": "admin",
+    "last_modified_by": "admin",
+    "create_time": "2019-03-01T15:36:15Z",
+    "system_mtime": "2019-03-01T15:36:15Z",
+    "user_mtime": "2019-03-01T15:36:15Z",
+    "suppressed": false,
+    "id_0": "ID11",
+    "id_1": "ID22",
+    "id_2": "ID33",
+    "language": "eng",
+    "level": "file",
+    "jsonmodel_type": "resource",
+    "external_ids": [],
+    "subjects": [],
+    "linked_events": [],
+    "extents": [
+      {
+        "lock_version": 0,
+        "number": "1",
+        "created_by": "admin",
+        "last_modified_by": "admin",
+        "create_time": "2019-03-01T15:36:15Z",
+        "system_mtime": "2019-03-01T15:36:15Z",
+        "user_mtime": "2019-03-01T15:36:15Z",
+        "portion": "whole",
+        "extent_type": "cassettes",
+        "jsonmodel_type": "extent"
+      }
+    ],
+    "dates": [
+      {
+        "lock_version": 0,
+        "begin": "2019-03-01",
+        "created_by": "admin",
+        "last_modified_by": "admin",
+        "create_time": "2019-03-01T15:36:15Z",
+        "system_mtime": "2019-03-01T15:36:15Z",
+        "user_mtime": "2019-03-01T15:36:15Z",
+        "date_type": "single",
+        "label": "creation",
+        "jsonmodel_type": "date"
+      }
+    ],
+    "external_documents": [],
+    "rights_statements": [],
+    "linked_agents": [],
+    "revision_statements": [],
+    "instances": [],
+    "deaccessions": [],
+    "related_accessions": [],
+    "classifications": [],
+    "notes": [],
+    "uri": "/repositories/2/resources/1",
+    "repository": {
+      "ref": "/repositories/2"
+    },
+    "tree": {
+      "ref": "/repositories/2/resources/1/tree"
+    }
+  }
+]

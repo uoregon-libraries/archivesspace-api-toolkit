@@ -42,7 +42,7 @@ class BatchExportEAD(GenericTask):
 
   # Menu prompt
   def prompt(self):
-    return "Batch export resources"
+    return "Batch export resources as EAD"
 
   # Query user for repository ID
   def repo_menu(self):

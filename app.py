@@ -23,8 +23,9 @@ def main_menu():
     UserDefinedTask(args, client, logger),
     BatchCreateTopContainer(args, client, logger),
     BatchExportTopContainer(args, client, logger),
-    BatchImportTopContainer(args, client, logger),
+    BatchUpdateTopContainer(args, client, logger),
     BatchExportEAD(args, client, logger),
+    BatchUpdateResource(args, client, logger),
   ]
 
   done = False

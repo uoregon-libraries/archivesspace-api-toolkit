@@ -49,6 +49,9 @@ def main_menu():
       done = True
       continue
 
+class APIContactError(Exception):
+  pass
+
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser()
@@ -87,7 +90,8 @@ if __name__ == "__main__":
     resp = client.get('/')
     if not resp.ok:
       resp.raise_for_status()
-  finally:
-    logger.error('Unable to contact ArchivesSpace instance')
+  except:
+    logger.error('Unable to contact ArchivesSpace instance at %s' % config['aspace_credentials']['api_host'])
+    raise APIContactError('Unable to contact ArchivesSpace instance at %s' % config['aspace_credentials']['api_host'])
 
   main_menu()

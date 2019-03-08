@@ -24,7 +24,7 @@ class BatchExportTopContainer(GenericTask):
       cur_page += 1
 
     export_time = time.strftime("%Y-%m-%d-%H%M%S")
-    with open("out/%s.json" % (export_time), "w") as file:
+    with open("out/%s.json" % (export_time), mode="w", encoding="utf-8") as file:
       file.write(json.dumps(top_containers, indent=2, sort_keys=True))
       file.close()
 

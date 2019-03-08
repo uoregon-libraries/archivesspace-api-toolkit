@@ -20,7 +20,7 @@ class BatchExportEAD(GenericTask):
     while True:
       json_file = self.json_menu()
       try:
-        with open(json_file) as file:
+        with open(json_file, mode="r", encoding="utf-8") as file:
           data = json.loads(file.read())
       except FileNotFoundError:
         print("File %s not found" % json_file)
@@ -36,7 +36,7 @@ class BatchExportEAD(GenericTask):
             % (repo_id, resource_id, options[0], options[1], options[2], options[3])
       # Export resource
       resp = super()._call(url, "get", None)
-      with open("out/%s.xml" % (resource_id), "w") as file:
+      with open("out/%s.xml" % (resource_id), mode="w", encoding="utf-8") as file:
         file.write(resp.text)
         file.close()
 

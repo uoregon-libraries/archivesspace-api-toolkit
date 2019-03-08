@@ -16,7 +16,7 @@ class BatchCreateTopContainer(GenericTask):
     while True:
       json_file = self.json_menu()
       try:
-        with open(json_file) as file:
+        with open(json_file, mode="r", encoding="utf-8") as file:
           data = json.loads(file.read())
       except FileNotFoundError:
         print("File %s not found" % json_file)

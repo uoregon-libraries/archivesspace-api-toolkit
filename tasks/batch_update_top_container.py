@@ -13,18 +13,8 @@ class BatchUpdateTopContainer(GenericTask):
         break
 
     # Get list of top container definitions
-    data = None
     while True:
-      json_file = self.json_menu()
-      try:
-        with open(json_file, mode="r", encoding="utf-8") as file:
-          data = json.loads(file.read())
-      except FileNotFoundError:
-        print("File %s not found" % json_file)
-        print("")
-        data = None
-      except json.JSONDecodeError:
-        print("Invalid JSON in %s" % json_file)
+      data = self.json_menu()
       if data:
         break
 
@@ -50,14 +40,3 @@ class BatchUpdateTopContainer(GenericTask):
     except EOFError:
       return None
     return id if super()._confirm("Confirm ID: %s" % id) else None
-
-  # Query user for JSON data file
-  def json_menu(self):
-    print("Enter the path to your json file:")
-    print("ie: data.json")
-    print("")
-    try:
-      data = input(">> ")
-    except EOFError:
-      return None
-    return data if super()._confirm("Confirm path: %s" % data) else None

@@ -62,14 +62,3 @@ class BatchExportEAD(GenericTask):
     tags = super()._confirm("Use numbered tags in ead?", True)
     ead = super()._confirm("Export using EAD3 schema?", True)
     return [unpublished, daos, tags, ead]
-
-  # Query user for JSON data file
-  def json_menu(self):
-    print("Enter the path to your json file:")
-    print("ie: data.json")
-    print("")
-    try:
-      data = input(">> ")
-    except EOFError:
-      return None
-    return data if super()._confirm("Confirm path: %s" % data) else None

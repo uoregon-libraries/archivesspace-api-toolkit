@@ -50,14 +50,3 @@ class BatchUpdateTopContainer(GenericTask):
     except EOFError:
       return None
     return id if super()._confirm("Confirm ID: %s" % id) else None
-
-  # Query user for JSON data file
-  def json_menu(self):
-    print("Enter the path to your json file:")
-    print("ie: data.json")
-    print("")
-    try:
-      data = input(">> ")
-    except EOFError:
-      return None
-    return data if super()._confirm("Confirm path: %s" % data) else None

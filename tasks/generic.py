@@ -19,6 +19,17 @@ class GenericTask(abc.ABC):
     pass
 
 
+  # Query user for JSON data file
+  def json_menu(self):
+    print("Enter the path to your json file:")
+    print("ie: data.json")
+    print("")
+    try:
+      data = input(">> ")
+    except EOFError:
+      return None
+    return data if self._confirm("Confirm path: %s" % data) else None
+
   # Call aspace client w/ logging
   def _call(self, url, action, data):
     # Get HTTP verb action method (client.get())

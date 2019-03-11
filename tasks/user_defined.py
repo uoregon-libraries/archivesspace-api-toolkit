@@ -16,10 +16,12 @@ class UserDefinedTask(GenericTask):
       if action:
         break
     # Get POST data if applicable
-    while True:
-      data = self.json_menu()
-      if data:
-        break
+    data = None
+    if action == 'post':
+      while True:
+        data = self.json_menu()
+        if data:
+          break
     # Run client request and output
     super()._call(url, action, data)
 

@@ -12,6 +12,8 @@ class BatchExportTopContainer(GenericTask):
       if id:
         break
 
+    export_time = time.strftime("%Y-%m-%d-%H%M%S")
+
     # Get list of top container definitions
     top_containers = []
     cur_page = last_page = 1
@@ -22,11 +24,9 @@ class BatchExportTopContainer(GenericTask):
       top_containers += data["results"]
       last_page = data["last_page"]
       cur_page += 1
-
-    export_time = time.strftime("%Y-%m-%d-%H%M%S")
-    with open("out/%s.json" % (export_time), mode="w", encoding="utf-8") as file:
-      file.write(json.dumps(top_containers, indent=2, sort_keys=True))
-      file.close()
+      with open("out/%s.json" % (export_time), mode="w", encoding="utf-8") as file:
+        file.write(json.dumps(top_containers, indent=2, sort_keys=True))
+        file.close()
 
   # Menu prompt
   def prompt(self):

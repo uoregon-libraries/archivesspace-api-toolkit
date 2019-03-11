@@ -26,6 +26,7 @@ def main_menu():
     BatchUpdateTopContainer(args, client, logger),
     BatchExportEAD(args, client, logger),
     BatchUpdateResource(args, client, logger),
+    BatchUpdateLocation(args, client, logger),
   ]
 
   done = False

@@ -33,11 +33,18 @@ Certain tasks will also dump your output to the `out` directly in a useful forma
 `1) Enter API endpoint and JSON file` Is a base case, where you can input a free form url to be prepended to your Aspace instance URL.
 With this option, any arbitrary API query can be ran
 See [API Docs](https://archivesspace.github.io/archivesspace/api/#routes-by-uri)
+
 `2) Batch create top containers` Is a repetitive application of the [`POST /repositories/:repo_id/top_containers`](https://archivesspace.github.io/archivesspace/api/#create-a-top-container) endpoint
+
 `3) Batch export top containers` Does a search for all top containers in the given repository, then is a repetitive application of the [`GET /repositories/:repo_id/top_containers/:id`](https://archivesspace.github.io/archivesspace/api/#get-a-top-container-by-id) endpoint. Data is dumped to `out/:id.json`
+
 `4) Batch update top containers` Is a repetitive application of the [`POST /repositories/:repo_id/top_containers/:id`](https://archivesspace.github.io/archivesspace/api/#update-a-top-container) endpoint
+
 `5) Batch export resources as EAD` Is a repetitive application of the [`GET /repositories/:repo_id/resource_descriptions/:id.xml`](https://archivesspace.github.io/archivesspace/api/#get-an-ead-representation-of-a-resource204) endpoint. Data is dumped to `out/:id.xml`
-`4) Batch update resources` Is a repetitive application of the [`POST /repositories/:repo_id/resources/:id`](https://archivesspace.github.io/archivesspace/api/#update-a-resource) endpoint
+
+`6) Batch export resources as EAD for ArchivesWest` builds on `5)` by preparing the exported EAD for ingest into ArchivesWest. Only the following XML elements are kept: `ead/eadheader, ead/control, ead/archdesc/did, ead/archdesc/accessrestrict, ead/archdesc/controlaccess`. Then `archdesc/did/unittitle` is updated to link back to ArchivesSpace, Finally `archdesc/accessrestrict` is searched for an ending paragraph that contains a link to the resource, if the last paragraph does not contain such a link a new paragraph is appended
+
+`7) Batch update resources` Is a repetitive application of the [`POST /repositories/:repo_id/resources/:id`](https://archivesspace.github.io/archivesspace/api/#update-a-resource) endpoint
 
 ### Logging
 All traffic in and out of the app is recorded to `app.log`. This can be extremely helpful in debugging or retrieving accidentally deleted resources.

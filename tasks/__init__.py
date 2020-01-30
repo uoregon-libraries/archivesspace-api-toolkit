@@ -4,5 +4,6 @@ from tasks.batch_create_top_container import BatchCreateTopContainer
 from tasks.batch_export_top_container import BatchExportTopContainer
 from tasks.batch_update_top_container import BatchUpdateTopContainer
 from tasks.batch_export_ead import BatchExportEAD
+from tasks.batch_export_ead_archiveswest import BatchExportEADArchiveswest
 from tasks.batch_update_resource import BatchUpdateResource
 from tasks.batch_update_location import BatchUpdateLocation

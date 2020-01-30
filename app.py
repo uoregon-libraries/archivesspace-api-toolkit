@@ -25,6 +25,7 @@ def main_menu():
     BatchExportTopContainer(args, client, logger),
     BatchUpdateTopContainer(args, client, logger),
     BatchExportEAD(args, client, logger),
+    BatchExportEADArchiveswest(args, client, logger),
     BatchUpdateResource(args, client, logger),
     BatchUpdateLocation(args, client, logger),
   ]
@@ -77,6 +78,7 @@ if __name__ == "__main__":
 
   config = configparser.ConfigParser()
   config.read('settings.ini')
+  args.config = config
 
   try:
     client = ASnakeClient(baseurl=config['aspace_credentials']['api_host'],

@@ -67,7 +67,7 @@ class BatchExportEADArchiveswest(GenericTask):
       # Copy all ead/archdesc and all its attributes attributes without copying its children
       subtree = as_xml.find('archdesc', namespaces)
       if subtree is not None:
-        aw_archdesc = etree.SubElement(aw_xml, 'archdesc')
+        aw_archdesc = etree.SubElement(aw_xml, '{%s}archdesc' % (namespaces[None]))
         for key, value in dict(subtree.attrib).items():
           aw_archdesc.attrib[key] = value
 

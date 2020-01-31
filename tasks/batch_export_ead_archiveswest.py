@@ -166,7 +166,8 @@ class BatchExportEADArchiveswest(GenericTask):
           # Read new XML in and re-add the 'actuate' attrib to extrefs
           eadid = as_xml.find('eadheader/eadid', namespaces).text
           filename = 'out/%s' % (eadid)
-          aw_xml = etree.parse(filename).getroot()
+          aw_tree = etree.parse(filename)
+          aw_xml = aw_tree.getroot()
 
           subtree = aw_xml.find('archdesc/did/unittitle/extref')
           if subtree is not None and isinstance(subtree.attrib['actuate'], str):
@@ -177,15 +178,17 @@ class BatchExportEADArchiveswest(GenericTask):
             extref = paragraphs[-1].find('extref')
             if isinstance(extref.attrib['actuate'], str):
               extref.attrib['actuate'] = 'onrequest'
+
+          aw_xml = aw_tree
       except mechanize._mechanize.LinkNotFoundError as e:
         # No download link so lets just output the pre-conversion.
         pass
 
       with open(filename, mode="wb") as file:
-        file.write(etree.tostring(aw_xml, pretty_print=True))
+        file.write(etree.tostring(aw_xml, xml_declaration=True, encoding='utf8', pretty_print=True))
         file.close()
       with open(filename+'.orig', mode="wb") as file:
-        file.write(etree.tostring(as_xml, pretty_print=True))
+        file.write(etree.tostring(as_xml, xml_declaration=True, encoding='utf8', pretty_print=True))
         file.close()
 
   # Menu prompt

@@ -103,6 +103,23 @@ class BatchExportEADArchiveswest(GenericTask):
         subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
         subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
 
+        # Re-create archdesc/dsc/c01/did/unittitle
+        subtree = aw_xml.find('archdesc', namespaces)
+        subtree = etree.SubElement(subtree, 'dsc')
+        subtree = etree.SubElement(subtree, 'c01')
+        subtree.attrib['level'] = 'otherlevel'
+        subtree.attrib['otherlevel'] = 'Finding Aid'
+        subtree = etree.SubElement(subtree, 'did')
+        subtree = etree.SubElement(subtree, 'unittitle')
+
+        # Add <extref> to <unittitle>
+        subtree = etree.SubElement(subtree, 'extref')
+        subtree.text = title
+        subtree.attrib['{%s}title' % (namespaces['xlink'])] = title.replace(' ', '-')
+        subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
+        subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
+        subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
+
         paragraphs = aw_xml.findall('archdesc/accessrestrict/p', namespaces)
         subtree = aw_xml.find('archdesc/accessrestrict', namespaces)
         if paragraphs is not None:

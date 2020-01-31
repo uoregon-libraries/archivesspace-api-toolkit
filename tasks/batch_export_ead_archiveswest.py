@@ -103,12 +103,29 @@ class BatchExportEADArchiveswest(GenericTask):
         subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
         subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
 
+        # Re-create archdesc/dsc/c01/did/unittitle
+        subtree = aw_xml.find('archdesc', namespaces)
+        subtree = etree.SubElement(subtree, 'dsc')
+        subtree = etree.SubElement(subtree, 'c01')
+        subtree.attrib['level'] = 'otherlevel'
+        subtree.attrib['otherlevel'] = 'Finding Aid'
+        subtree = etree.SubElement(subtree, 'did')
+        subtree = etree.SubElement(subtree, 'unittitle')
+
+        # Add <extref> to <unittitle>
+        subtree = etree.SubElement(subtree, 'extref')
+        subtree.text = title
+        subtree.attrib['{%s}title' % (namespaces['xlink'])] = title.replace(' ', '-')
+        subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
+        subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
+        subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
+
         paragraphs = aw_xml.findall('archdesc/accessrestrict/p', namespaces)
         subtree = aw_xml.find('archdesc/accessrestrict', namespaces)
-        if paragraphs:
+        if paragraphs is not None:
           extref = paragraphs[-1].find('extref')
         # No paragraphs or the last paragraph does not contain a link or the last paragraph's link is not the right link
-        if not paragraphs or not extref or extref.attrib['{%s}href' % (namespaces['xlink'])] != resource_uri:
+        if paragraphs is None or extref is None or extref.attrib['{%s}href' % (namespaces['xlink'])] != resource_uri:
           # Add <p> tag
           subtree = etree.SubElement(subtree, 'p')
           # Add <emph> to <p>
@@ -145,14 +162,31 @@ class BatchExportEADArchiveswest(GenericTask):
         br.retrieve(orbis_base_url + src.url, filename)
         with zipfile.ZipFile(filename, 'r') as zip_ref:
           zip_ref.extractall('out/')
+
+          # Read new XML in and re-add the 'actuate' attrib to extrefs
+          eadid = as_xml.find('eadheader/eadid', namespaces).text
+          filename = 'out/%s' % (eadid)
+          aw_xml = etree.parse(filename).getroot()
+
+          subtree = aw_xml.find('archdesc/did/unittitle/extref')
+          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+            subtree.attrib['actuate'] = 'onrequest'
+
+          paragraphs = aw_xml.findall('archdesc/accessrestrict/p')
+          if paragraphs is not None:
+            extref = paragraphs[-1].find('extref')
+            if isinstance(extref.attrib['actuate'], str):
+              extref.attrib['actuate'] = 'onrequest'
       except mechanize._mechanize.LinkNotFoundError as e:
-        # No download link so lets just output the closest we can get to pre-conversion.
-        with open(filename, mode="wb") as file:
-          file.write(etree.tostring(aw_xml, pretty_print=True))
-          file.close()
-        with open(filename+'.origas_xml', mode="wb") as file:
-          file.write(etree.tostring(as_xml, pretty_print=True))
-          file.close()
+        # No download link so lets just output the pre-conversion.
+        pass
+
+      with open(filename, mode="wb") as file:
+        file.write(etree.tostring(aw_xml, pretty_print=True))
+        file.close()
+      with open(filename+'.orig', mode="wb") as file:
+        file.write(etree.tostring(as_xml, pretty_print=True))
+        file.close()
 
   # Menu prompt
   def prompt(self):

@@ -94,11 +94,23 @@ class BatchExportEADArchiveswest(GenericTask):
         # Grab and reset archdesc/did/unittitle
         subtree = aw_xml.find('archdesc/did/unittitle', namespaces)
         subtree.clear()
-
         # Add <extref> to <unittitle>
         subtree = etree.SubElement(subtree, 'extref')
         subtree.text = title
         subtree.attrib['{%s}title' % (namespaces['xlink'])] = title.replace(' ', '-')
+        subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
+        subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
+        subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
+
+        # Grab and reset archdesc/otherfindaid
+        subtree = aw_xml.find('archdesc', namespaces)
+        subtree = aw_xml.find('otherfindaid', namespaces) or etree.SubElement(subtree, 'otherfindaid')
+        subtree.clear()
+        # Re-create archdesc/otherfindaid
+        subtree = etree.SubElement(subtree, 'p')
+        subtree = etree.SubElement(subtree, 'extref')
+        subtree.text = 'See the Current Collection Guide for detailed description and requesting options.'
+        subtree.attrib['{%s}title' % (namespaces['xlink'])] = 'see-current-collection-guide-and-requesting-options'
         subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
         subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
         subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
@@ -108,10 +120,9 @@ class BatchExportEADArchiveswest(GenericTask):
         subtree = etree.SubElement(subtree, 'dsc')
         subtree = etree.SubElement(subtree, 'c01')
         subtree.attrib['level'] = 'otherlevel'
-        subtree.attrib['otherlevel'] = 'Finding Aid'
+        subtree.attrib['otherlevel'] = 'Heading'
         subtree = etree.SubElement(subtree, 'did')
         subtree = etree.SubElement(subtree, 'unittitle')
-
         # Add <extref> to <unittitle>
         subtree = etree.SubElement(subtree, 'extref')
         subtree.text = title
@@ -119,27 +130,6 @@ class BatchExportEADArchiveswest(GenericTask):
         subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
         subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
         subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
-
-        paragraphs = aw_xml.findall('archdesc/accessrestrict/p', namespaces)
-        subtree = aw_xml.find('archdesc/accessrestrict', namespaces)
-        if paragraphs is not None:
-          extref = paragraphs[-1].find('extref')
-        # No paragraphs or the last paragraph does not contain a link or the last paragraph's link is not the right link
-        if paragraphs is None or extref is None or extref.attrib['{%s}href' % (namespaces['xlink'])] != resource_uri:
-          # Add <p> tag
-          subtree = etree.SubElement(subtree, 'p')
-          # Add <emph> to <p>
-          emph = etree.SubElement(subtree, 'emph')
-          emph.text = 'UO Finding Aid:'
-          emph.set('render', 'bold')
-
-          # Add <extref> to <p>
-          extref = etree.SubElement(subtree, 'extref')
-          extref.text = 'Guide to %s' % (title)
-          extref.attrib['{%s}title' % (namespaces['xlink'])] = title.replace(' ', '-')
-          extref.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
-          extref.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
-          extref.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
 
       # Temporarily write file to upload to AS to AW converter
       with tempfile.NamedTemporaryFile(mode='w+b', suffix='.xml') as tmp:
@@ -172,12 +162,12 @@ class BatchExportEADArchiveswest(GenericTask):
           subtree = aw_xml.find('archdesc/did/unittitle/extref')
           if subtree is not None and isinstance(subtree.attrib['actuate'], str):
             subtree.attrib['actuate'] = 'onrequest'
-
-          paragraphs = aw_xml.findall('archdesc/accessrestrict/p')
-          if paragraphs is not None:
-            extref = paragraphs[-1].find('extref')
-            if isinstance(extref.attrib['actuate'], str):
-              extref.attrib['actuate'] = 'onrequest'
+          subtree = aw_xml.find('archdesc/otherfindaid/p/extref')
+          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+            subtree.attrib['actuate'] = 'onrequest'
+          subtree = aw_xml.find('archdesc/dsc/c01/did/unittitle/extref')
+          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+            subtree.attrib['actuate'] = 'onrequest'
 
           aw_xml = aw_tree
       except mechanize._mechanize.LinkNotFoundError as e:

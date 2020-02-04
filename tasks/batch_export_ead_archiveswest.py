@@ -86,35 +86,28 @@ class BatchExportEADArchiveswest(GenericTask):
       if subtree is not None:
         aw_archdesc.append(subtree)
 
-      # Update ArchivesWest resource title & append finding aid location
-      title = aw_xml.find('archdesc/did/unittitle', namespaces).text
-      if isinstance(title, str):
-        resource_uri = 'https://scua.uoregon.edu/repositories/%s/resources/%s' % (repo_id, resource_id)
+      # Keep ead/archdesc/otherfindaid
+      subtree = copy.deepcopy(as_xml.find('archdesc/otherfindaid', namespaces))
+      if subtree is not None:
+        aw_archdesc.append(subtree)
 
+      # Update ArchivesWest resource title & append finding aid location
+      filedesc_title = aw_xml.findall('eadheader/filedesc/titlestmt/titleproper', namespaces)[-1].text
+      archdesc_title = aw_xml.findall('archdesc/did/unittitle', namespaces)[-1].text
+      resource_uri = 'https://scua.uoregon.edu/repositories/%s/resources/%s' % (repo_id, resource_id)
+      if isinstance(archdesc_title, str):
         # Grab and reset archdesc/did/unittitle
         subtree = aw_xml.find('archdesc/did/unittitle', namespaces)
         subtree.clear()
         # Add <extref> to <unittitle>
         subtree = etree.SubElement(subtree, 'extref')
-        subtree.text = title
-        subtree.attrib['{%s}title' % (namespaces['xlink'])] = title.replace(' ', '-')
+        subtree.text = archdesc_title
+        subtree.attrib['{%s}title' % (namespaces['xlink'])] = archdesc_title.replace(' ', '-')
         subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
         subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
         subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
 
-        # Grab and reset archdesc/otherfindaid
-        subtree = aw_xml.find('archdesc', namespaces)
-        subtree = aw_xml.find('otherfindaid', namespaces) or etree.SubElement(subtree, 'otherfindaid')
-        subtree.clear()
-        # Re-create archdesc/otherfindaid
-        subtree = etree.SubElement(subtree, 'p')
-        subtree = etree.SubElement(subtree, 'extref')
-        subtree.text = 'See the Current Collection Guide for detailed description and requesting options.'
-        subtree.attrib['{%s}title' % (namespaces['xlink'])] = 'see-current-collection-guide-and-requesting-options'
-        subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
-        subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
-        subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
-
+      if isinstance(filedesc_title, str):
         # Re-create archdesc/dsc/c01/did/unittitle
         subtree = aw_xml.find('archdesc', namespaces)
         subtree = etree.SubElement(subtree, 'dsc')
@@ -125,11 +118,23 @@ class BatchExportEADArchiveswest(GenericTask):
         subtree = etree.SubElement(subtree, 'unittitle')
         # Add <extref> to <unittitle>
         subtree = etree.SubElement(subtree, 'extref')
-        subtree.text = title
-        subtree.attrib['{%s}title' % (namespaces['xlink'])] = title.replace(' ', '-')
+        subtree.text = filedesc_title
+        subtree.attrib['{%s}title' % (namespaces['xlink'])] = filedesc_title.replace(' ', '-')
         subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
         subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
         subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
+
+      # Grab and append archdesc/otherfindaid
+      subtree = aw_xml.find('archdesc', namespaces)
+      subtree = etree.SubElement(subtree, 'otherfindaid')
+      # Re-create archdesc/otherfindaid
+      subtree = etree.SubElement(subtree, 'p')
+      subtree = etree.SubElement(subtree, 'extref')
+      subtree.text = 'See the Current Collection Guide for detailed description and requesting options.'
+      subtree.attrib['{%s}title' % (namespaces['xlink'])] = 'see-current-collection-guide-and-requesting-options'
+      subtree.attrib['{%s}show' % (namespaces['xlink'])] = 'new'
+      subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
+      subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
 
       # Temporarily write file to upload to AS to AW converter
       with tempfile.NamedTemporaryFile(mode='w+b', suffix='.xml') as tmp:

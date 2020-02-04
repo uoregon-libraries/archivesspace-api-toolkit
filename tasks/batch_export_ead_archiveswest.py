@@ -40,7 +40,11 @@ class BatchExportEADArchiveswest(GenericTask):
             % (repo_id, resource_id, options[0], options[1], options[2], options[3])
       # Export resource
       resp = super()._call(url, "get", None)
-      as_xml = etree.fromstring(resp.text.encode('utf-8'))
+      try:
+        as_xml = etree.fromstring(resp.text.encode('utf-8'))
+      except Exception as e:
+        self.logger.exception('Could not parse received XML')
+        continue
 
       # Build ArchivesWest XML
       namespaces = {

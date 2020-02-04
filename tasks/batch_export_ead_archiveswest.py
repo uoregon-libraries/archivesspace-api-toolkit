@@ -175,10 +175,10 @@ class BatchExportEADArchiveswest(GenericTask):
         pass
 
       with open(filename, mode="wb") as file:
-        file.write(etree.tostring(aw_xml, xml_declaration=True, encoding='utf8', pretty_print=True))
+        file.write(etree.tostring(aw_xml, xml_declaration=True, encoding='UTF-8', pretty_print=True))
         file.close()
       with open(filename+'.orig', mode="wb") as file:
-        file.write(etree.tostring(as_xml, xml_declaration=True, encoding='utf8', pretty_print=True))
+        file.write(etree.tostring(as_xml, xml_declaration=True, encoding='UTF-8', pretty_print=True))
         file.close()
 
   # Menu prompt

@@ -27,6 +27,14 @@ class BatchExportEADArchiveswestPlus(GenericTask):
       if data:
         break
 
+    orbis_base_url = 'https://archiveswest.orbiscascade.org'
+    br = mechanize.Browser()
+    br.open(orbis_base_url + '/tools/Login.aspx?destination=%2ftools%2fAs2Aw.aspx')
+    br.select_form('aspnetForm')
+    br['ctl00$mainContentPlaceHolder$usernameTextBox'] = self.args.config['archiveswest_credentials']['username']
+    br['ctl00$mainContentPlaceHolder$passwordTextBox'] = self.args.config['archiveswest_credentials']['password']
+    br.submit()
+
     for resource_id in data:
       url = "/repositories/%s/resource_descriptions/%s.xml?include_unpublished=%s&include_daos=%s&numbered_cs=%s&ead3=%s"\
             % (repo_id, resource_id, options[0], options[1], options[2], options[3])
@@ -142,8 +150,48 @@ class BatchExportEADArchiveswestPlus(GenericTask):
       subtree.attrib['{%s}href' % (namespaces['xlink'])] = resource_uri
       subtree.attrib['{%s}actuate' % (namespaces['xlink'])] = 'onrequest'
 
+      # Temporarily write file to upload to AS to AW converter
+      with tempfile.NamedTemporaryFile(mode='w+b', suffix='.xml') as tmp:
+        tmp.write(etree.tostring(aw_xml))
+        tmp.seek(0)
+
+        # Convert temporary file
+        br.select_form('aspnetForm')
+        br.add_file(tmp, 'text/xml', '%s.xml' % (resource_id))
+        br.submit()
+
+        tmp.close()
+
       # Retrieve converted file and write out again
       filename = 'out/%s.xml' %(resource_id)
+      try:
+        src = br.find_link('Click this link to download a zip file containing the converted document.')
+        # Download zip and unzip in output directory
+        filename = "%s.zip" % (filename)
+        br.retrieve(orbis_base_url + src.url, filename)
+        with zipfile.ZipFile(filename, 'r') as zip_ref:
+          zip_ref.extractall('out/')
+
+          # Read new XML in and re-add the 'actuate' attrib to extrefs
+          eadid = as_xml.find('eadheader/eadid', namespaces).text
+          filename = 'out/%s' % (eadid)
+          aw_tree = etree.parse(filename)
+          aw_xml = aw_tree.getroot()
+
+          subtree = aw_xml.find('archdesc/did/unittitle/extref')
+          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+            subtree.attrib['actuate'] = 'onrequest'
+          subtree = aw_xml.find('archdesc/otherfindaid/p/extref')
+          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+            subtree.attrib['actuate'] = 'onrequest'
+          subtree = aw_xml.find('archdesc/dsc/c01/did/unittitle/extref')
+          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+            subtree.attrib['actuate'] = 'onrequest'
+
+          aw_xml = aw_tree
+      except mechanize._mechanize.LinkNotFoundError as e:
+        # No download link so lets just output the pre-conversion.
+        pass
 
       with open(filename, mode="wb") as file:
         file.write(etree.tostring(aw_xml, xml_declaration=True, encoding='UTF-8', pretty_print=True))

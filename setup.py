@@ -6,7 +6,7 @@ buildOptions = {
 }
 setup(
   name = "aspace",
-  version = "1.2.1",
+  version = "1.3.1",
   description = "",
   options = {
     "build_exe": buildOptions,

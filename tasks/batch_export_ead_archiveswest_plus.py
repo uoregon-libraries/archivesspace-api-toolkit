@@ -27,9 +27,9 @@ class BatchExportEADArchiveswestPlus(GenericTask):
       if data:
         break
 
-    orbis_base_url = 'https://archiveswest.orbiscascade.org'
+    orbis_base_url = self.args.config['archiveswest_credentials']['api_host']
     br = mechanize.Browser()
-    br.open(orbis_base_url + '/tools/Login.aspx?destination=%2ftools%2fAs2Aw.aspx')
+    br.open(orbis_base_url + '/Login.aspx?destination=%2ftools%2fAs2Aw.aspx')
     br.select_form('aspnetForm')
     br['ctl00$mainContentPlaceHolder$usernameTextBox'] = self.args.config['archiveswest_credentials']['username']
     br['ctl00$mainContentPlaceHolder$passwordTextBox'] = self.args.config['archiveswest_credentials']['password']

@@ -29,10 +29,10 @@ class BatchExportEADArchiveswest(GenericTask):
 
     orbis_base_url = self.args.config['archiveswest_credentials']['api_host']
     br = mechanize.Browser()
-    br.open(orbis_base_url + '/Login.aspx?destination=%2ftools%2fAs2Aw.aspx')
-    br.select_form('aspnetForm')
-    br['ctl00$mainContentPlaceHolder$usernameTextBox'] = self.args.config['archiveswest_credentials']['username']
-    br['ctl00$mainContentPlaceHolder$passwordTextBox'] = self.args.config['archiveswest_credentials']['password']
+    br.open(orbis_base_url + '/login.php?redirect=%2ftools%2fas2aw.php')
+    br.select_form(nr=0)
+    br['username'] = self.args.config['archiveswest_credentials']['username']
+    br['password'] = self.args.config['archiveswest_credentials']['password']
     br.submit()
 
     for resource_id in data:
@@ -146,7 +146,7 @@ class BatchExportEADArchiveswest(GenericTask):
         tmp.seek(0)
 
         # Convert temporary file
-        br.select_form('aspnetForm')
+        br.select_form('form-convert')
         br.add_file(tmp, 'text/xml', '%s.xml' % (resource_id))
         br.submit()
 

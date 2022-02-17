@@ -29,6 +29,7 @@ class BatchExportEADArchiveswest(GenericTask):
 
     orbis_base_url = self.args.config['archiveswest_credentials']['api_host']
     br = mechanize.Browser()
+    br.set_handle_redirect(True)
     br.open(orbis_base_url + '/login.php?redirect=%2ftools%2fas2aw.php')
     br.select_form(nr=0)
     br['username'] = self.args.config['archiveswest_credentials']['username']
@@ -146,7 +147,7 @@ class BatchExportEADArchiveswest(GenericTask):
         tmp.seek(0)
 
         # Convert temporary file
-        br.select_form('form-convert')
+        br.select_form(nr=0)
         br.add_file(tmp, 'text/xml', '%s.xml' % (resource_id))
         br.submit()
 
@@ -155,33 +156,27 @@ class BatchExportEADArchiveswest(GenericTask):
       # Retrieve converted file and write out again
       filename = 'out/%s.xml' %(resource_id)
       try:
-        src = br.find_link('Click this link to download a zip file containing the converted document.')
-        # Download zip and unzip in output directory
-        filename = "%s.zip" % (filename)
-        br.retrieve(orbis_base_url + src.url, filename)
-        with zipfile.ZipFile(filename, 'r') as zip_ref:
-          zip_ref.extractall('out/')
+        # form[0].attrs['id'] == 'form-convert', form[1].attrs['id'] == 'form-download'
+        form = br.select_form(nr=1)
+        controls = list(form.controls)
+        # controls[0].type == 'textarea'
+        ead = controls[0].value
+        # Read new XML in and re-add the 'actuate' attrib to extrefs
+        aw_tree = etree.parse(ead)
+        aw_xml = aw_tree.getroot()
 
-          # Read new XML in and re-add the 'actuate' attrib to extrefs
-          eadid = as_xml.find('eadheader/eadid', namespaces).text
-          filename = 'out/%s' % (eadid)
-          aw_tree = etree.parse(filename)
-          aw_xml = aw_tree.getroot()
+        subtree = aw_xml.find('archdesc/did/unittitle/extref')
+        if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+          subtree.attrib['actuate'] = 'onrequest'
+        subtree = aw_xml.find('archdesc/otherfindaid/p/extref')
+        if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+          subtree.attrib['actuate'] = 'onrequest'
+        subtree = aw_xml.find('archdesc/dsc/c01/did/unittitle/extref')
+        if subtree is not None and isinstance(subtree.attrib['actuate'], str):
+          subtree.attrib['actuate'] = 'onrequest'
 
-          subtree = aw_xml.find('archdesc/did/unittitle/extref')
-          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
-            subtree.attrib['actuate'] = 'onrequest'
-          subtree = aw_xml.find('archdesc/otherfindaid/p/extref')
-          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
-            subtree.attrib['actuate'] = 'onrequest'
-          subtree = aw_xml.find('archdesc/dsc/c01/did/unittitle/extref')
-          if subtree is not None and isinstance(subtree.attrib['actuate'], str):
-            subtree.attrib['actuate'] = 'onrequest'
-
-          aw_xml = aw_tree
-      except mechanize._mechanize.LinkNotFoundError as e:
-        # No download link so lets just output the pre-conversion.
-        pass
+        aw_xml = aw_tree
+      except: pass
 
       with open(filename, mode="wb") as file:
         file.write(etree.tostring(aw_xml, xml_declaration=True, encoding='UTF-8', pretty_print=True))

@@ -58,7 +58,7 @@ All traffic in and out of the app is recorded to `app.log`. This can be extremel
   - Windows
     - cmd - `venv/Scripts/activate.bat`
     - powershell - `venv/Scripts/activate.ps1`
-  - Linux/Mac: `source venv/Scripts/activate`
+  - Linux/Mac: `source venv/bin/activate`
 - Install module requirements: `make setup` or `pip install -r requirements.txt`
 - Copy `settings.ini.example` to `settings.ini` and fill out
 

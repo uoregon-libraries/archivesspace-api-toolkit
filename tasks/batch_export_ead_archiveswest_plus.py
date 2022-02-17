@@ -157,7 +157,7 @@ class BatchExportEADArchiveswestPlus(GenericTask):
         tmp.seek(0)
 
         # Convert temporary file
-        br.select_form('form-convert')
+        br.select_form(nr=0)
         br.add_file(tmp, 'text/xml', '%s.xml' % (resource_id))
         br.submit()
 

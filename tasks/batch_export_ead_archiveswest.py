@@ -62,6 +62,15 @@ class BatchExportEADArchiveswest(GenericTask):
       # Keep ead/eadheader
       subtree = copy.deepcopy(as_xml.find('eadheader', namespaces))
       if subtree is not None:
+        #strip out findaidstatus
+        etree.strip_attributes(subtree, 'findaidstatus')
+        #strip out everything but the actual url string from addressline tag
+        extptr = subtree.findall(".//extptr", namespaces)
+        parent = extptr[0].find('..', namespaces)
+        parent.clear()
+        key = '{'+ namespaces['xlink'] + '}href'
+        url = extptr[0].get(key)
+        parent.text = url
         aw_xml.append(subtree)
 
       # Keep ead/control
@@ -157,25 +166,19 @@ class BatchExportEADArchiveswest(GenericTask):
       filename = 'out/%s.xml' %(resource_id)
       try:
         # form[0].attrs['id'] == 'form-convert', form[1].attrs['id'] == 'form-download'
-        form = br.select_form(nr=1)
-        controls = list(form.controls)
+        br.select_form(nr=1)
         # controls[0].type == 'textarea'
-        ead = controls[0].value
-        # Read new XML in and re-add the 'actuate' attrib to extrefs
-        aw_tree = etree.parse(ead)
-        aw_xml = aw_tree.getroot()
-
-        subtree = aw_xml.find('archdesc/did/unittitle/extref')
-        if subtree is not None and isinstance(subtree.attrib['actuate'], str):
-          subtree.attrib['actuate'] = 'onrequest'
-        subtree = aw_xml.find('archdesc/otherfindaid/p/extref')
-        if subtree is not None and isinstance(subtree.attrib['actuate'], str):
-          subtree.attrib['actuate'] = 'onrequest'
-        subtree = aw_xml.find('archdesc/dsc/c01/did/unittitle/extref')
-        if subtree is not None and isinstance(subtree.attrib['actuate'], str):
-          subtree.attrib['actuate'] = 'onrequest'
-
-        aw_xml = aw_tree
+        # controls[0].value should be the converted ead
+        ead = br.form.controls[0].value
+        # Read new XML in and add attrs to eadid
+        aw_tree = etree.fromstring(ead.encode('utf-8'))
+        eadid = aw_tree.find('eadheader/eadid')
+        if eadid is not None:
+          eadid.attrib['encodinganalog'] = 'identifier'
+          eadid.attrib['identifier'] = eadid.get('url').split('ark:/')[1]
+          filename = 'out/%s' %(eadid.text)
+          #replace the submitted ead with the converted ead for writing to file
+          aw_xml = aw_tree
       except: pass
 
       with open(filename, mode="wb") as file:

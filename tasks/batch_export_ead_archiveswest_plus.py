@@ -187,8 +187,11 @@ class BatchExportEADArchiveswestPlus(GenericTask):
           eadid.attrib['encodinganalog'] = 'identifier'
           eadid.attrib['identifier'] = eadid.get('url').split('ark:/')[1]
           filename = 'out/%s' %(eadid.text)
-          #replace the submitted ead with the converted ead for writing to file
-          aw_xml = aw_tree
+        dsc = aw_tree.find('archdesc/dsc')
+        if dsc is not None:
+          dsc.attrib['type'] = 'analyticover'
+        #replace the submitted ead with the converted ead for writing to file
+        aw_xml = aw_tree
       except: pass
 
       with open(filename, mode="wb") as file:
